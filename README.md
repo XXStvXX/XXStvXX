@@ -39,10 +39,6 @@ An interactive scenario-analysis tool that makes market uncertainty and downside
 - [Career OS AI Copilot](https://github.com/XXStvXX/career-os-ai-copilot): a local-first Electron prototype for organizing job discovery, approval decisions, application packages, and status tracking through an explicit human–AI collaboration model.
 - [Aurum Signal Lab](https://github.com/XXStvXX/aurum-signal-lab): an explainable gold news-event research prototype with event studies, rule-based signal classification, historical analogue retrieval, and a [live GitHub Pages dashboard](https://xxstvxx.github.io/aurum-signal-lab/).
 
-## Supporting Tools
-
-- [Calendar ICS Generator](https://github.com/XXStvXX/Calendar-ICS_generator): a privacy-friendly browser tool that converts flexible course-date inputs into downloadable calendars.
-- [ECTD68 Poster Generator](https://github.com/XXStvXX/ECTD68_poster_generator): a bilingual poster editor with real-time controls, print preview, and PDF export.
 
 ## What I Bring
 
