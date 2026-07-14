@@ -39,7 +39,6 @@ An interactive scenario-analysis tool that makes market uncertainty and downside
 - [Career OS AI Copilot](https://github.com/XXStvXX/career-os-ai-copilot): a local-first Electron prototype for organizing job discovery, approval decisions, application packages, and status tracking through an explicit human–AI collaboration model.
 - [Aurum Signal Lab](https://github.com/XXStvXX/aurum-signal-lab): an explainable gold news-event research prototype with event studies, rule-based signal classification, historical analogue retrieval, and a [live GitHub Pages dashboard](https://xxstvxx.github.io/aurum-signal-lab/).
 
-
 ## What I Bring
 
 - **Data and reporting:** Python, pandas, SQL, SQLite, data cleaning, visualization, and reproducible workflows
